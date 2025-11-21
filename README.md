@@ -1,2 +1,2 @@
 # Fivem-Cache-Auto-Cleaner
-This isa program that auto clear your fivem cache when your execute it
+This is a program that auto clear your fivem cache when your execute it
